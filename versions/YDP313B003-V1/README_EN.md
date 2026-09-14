@@ -31,7 +31,7 @@
 
 OSPTEK **3.13″ 376×960 TFT** is a **MIPI** color display module driven by **GC9503CV**. The tall aspect ratio suits bar-style HMI, side status strips, and vertical info panels.
 
-Spec ID (repository name): `3.13-tft-376x960-mipi-gc9503cv`
+Spec ID (repository name): `tft-3.13-376x960-mipi-gc9503cv`
 
 Current module version: **YDP313B003-V1**. Electrical and mechanical details follow [`docs/YDP_313_B003_V1_42c8bc11c7.pdf`](./docs/YDP_313_B003_V1_42c8bc11c7.pdf).
 
@@ -56,7 +56,7 @@ Current module version: **YDP313B003-V1**. Electrical and mechanical details fol
 ## Repository layout
 
 ```text
-3.13-tft-376x960-mipi-gc9503cv/                                # repo root (nav: ../../README_EN.md)
+tft-3.13-376x960-mipi-gc9503cv/                                # repo root (nav: ../../README_EN.md)
 └── versions/
     └── YDP313B003-V1/                                # full materials for this part number
         ├── README.md
