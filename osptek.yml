@@ -6,6 +6,7 @@ panel: tft
 resolution: 376x960
 interface: [mipi]
 shape: rect
+corner: rounded
 
 versions:
   - id: YDP313B003-V1
